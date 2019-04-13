@@ -1,7 +1,6 @@
 $(document).ready(function () {
     $("#btnregistrar").click(function (e) { 
         e.preventDefault();
-        registrar();
     });
 
 });
